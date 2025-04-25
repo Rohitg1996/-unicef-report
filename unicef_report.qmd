@@ -1,0 +1,63 @@
+title: "UNICEF Data Story: Global Child Welfare" author: "Your Name" format: html: embed-resources: true code-fold: true theme: cosmo toc: true
+
+## UNICEF Global Welfare Report
+
+**Introduction**
+
+UNICEF data from global datasets are used to give an overview of key health and development indicators in this report. This report aims to publicize regional disparities and development priorities by the focus on the child welfare metrics: skilled birth attendance, birth rates, life expectancy. What the data visualizations included provide insight into is that healthcare access and economic conditions contribute to measuring how children do in the world.
+
+**World Map: Skilled Birth Attendance**
+
+![](images/paste-4.png)
+
+![](images/paste-11.png)
+
+**Figure 1: World Map: Skilled Birth Attendance (%)**
+
+(Source: Self-created in Google Colab)
+
+The skilled birth attendance is an important indicator of access to quality maternal healthcare services. The most recent percentage of births attended by skilled health personnel in the country is displayed by the global map visualisation. It has also been found that countries with higher percentages tend to have better healthcare systems and low maternal and neonetal mortality rate. Voices to support the accessibility of health to the unattended could include countries wherein attendance is low as their infrastructure may be inadequate, there are workforce shortages, and the issue of rural access to health is an issue. The visual links to global inequality in safe childbirth practices.
+
+**Bar Chart: Birth Rate Comparison**
+
+![](images/paste-12.png)
+
+![](images/paste-13.png)
+
+**Figure 2: Bar Chart: Top 10 Countries by Birth Rate**
+
+(Source: Self-created in Google Colab)
+
+The bar chart above indicates the bar chart on the crude birth rate of the ten most populous nations where the composition is arranged in the order of the highest to the lowest. Crude birth rate is the annual number of births registrated per 1,000 of the population; this rate is influenced by such factors as fertility rates, cultural factors, family planning services among others.
+
+The countries mentioned usually witness high population density and in some cases increased population growth resulting in societal vying for limited resources such as education, housing and health services.
+
+It is for this reason that knowledge of these dynamics is critical in a bid to be able to formulate policies that is appropriate to deal with youthful populations for the purposes of development.
+
+**Scatter Plot: Economic vs Health Outcomes**
+
+![](images/paste-14.png)
+
+![](images/paste-15.png)
+
+**Figure 3: Scatter Plot: GDP vs Life Expectancy**
+
+(Source: Self-created in Google Colab)
+
+GDP per capita vs. life expectancy relationship is depicted in this scatterplot. The higher the countries economic output per person was, the clearer the trend was that the countries with longer life spans. The correlation that emerges for wealth plays a role in the improvement of healthcare systems, nutrition, education, and living standards. Yet, at this level of GDPs, different life expectancies are shown by some countries with similar GDPs that suggest impact of governance, social policies and accessibility of healthcare.
+
+**Time-Series: Healthcare Progress**
+
+![](images/paste-16.png)
+
+![](images/paste-17.png)
+
+**Figure 4: Time-Series: Skilled Birth Attendance Over Time**
+
+(Source: Self-created in Google Colab)
+
+The skilled birth attendance time series line chart traces time by country in these three populous countries: India, Bangladesh, and Nigeria. There is big difference with the economic and healthcare challenge faced by these countries. The visualization indicates improving birth attendance showing how the country has achieved programs of public health, investing in maternal care, and terms with community undertaking. However, regional progress always depends on the political will, resources and cultural engagement—there is no magic formula, and every country still experiences slow improvements of the difference.
+
+**Conclusion**
+
+The report reinforces these three dimensions of global investment as fundamental to child welfare development. What we get with the interpretation of the key UNICEF indicators, is a more logical view of where the reform is taking place and where it is still not moving. Visual storytelling does not only inform, but it also inspires action by raising the political, social and communal commitment to equitable growth and human development.
